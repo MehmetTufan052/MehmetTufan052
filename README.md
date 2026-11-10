@@ -1,9 +1,22 @@
-- 👋 Hi, I’m Mehmet Tufan Eser
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning C#,ASP.NET
-- 📫 Email Adress tufaneser8@gmail.com
+# Hi, I’m Mehmet Tufan Eser 👋
 
-<!---
-MehmetTufan052/MehmetTufan052 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-2563EB?style=flat-square)
+
+I build web applications and APIs with C# and ASP.NET Core. I’m especially interested in how a request moves from the UI to the database and back.
+
+### 🛠️ My toolkit
+
+| Area | What I use |
+| --- | --- |
+| **Web** | ASP.NET Core MVC · Web API · Razor · HTML · CSS · JavaScript |
+| **Data** | SQL Server · MongoDB · Entity Framework Core · Dapper |
+| **API & Auth** | Swagger / OpenAPI · JWT · ASP.NET Core Identity |
+
+### 🔍 What I like to explore
+
+- **Data access** — comparing how EF Core and Dapper handle the same query.
+- **API design** — documenting endpoints with OpenAPI and adding JWT authentication.
+
+[Browse my repositories](https://github.com/MehmetTufan052?tab=repositories) · [Say hello by email](mailto:tufaneser8@gmail.com)
