@@ -29,9 +29,10 @@
 ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-1D4ED8?style=flat-square)
 ![Dapper](https://img.shields.io/badge/Dapper-1D4ED8?style=flat-square)
 
-### API documentation & authentication
+### API tools & authentication
 
 ![Swagger / OpenAPI](https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-166534?style=flat-square&logo=swagger&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-C64013?style=flat-square&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-24292F?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![ASP.NET Core Identity](https://img.shields.io/badge/ASP.NET%20Core%20Identity-512BD4?style=flat-square)
 
@@ -46,7 +47,7 @@
 ## ⚙️ How I put these tools to work
 
 - **Data-backed features** — I use EF Core for entity-based data access and Dapper when I want to write the SQL directly.
-- **API endpoints** — I document endpoints with Swagger and use JWT bearer authentication or ASP.NET Core Identity depending on the application.
+- **API endpoints** — I document endpoints with Swagger, test requests in Postman, and use JWT bearer authentication or ASP.NET Core Identity depending on the application.
 - **Application features** — I use AutoMapper for DTO mapping, FluentValidation for input validation, and MailKit for email.
 
 <details>
@@ -55,4 +56,3 @@
 I’ve also built applications with ASP.NET MVC and Entity Framework 6.
 
 </details>
-
