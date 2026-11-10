@@ -19,4 +19,3 @@ I build web applications and APIs with C# and ASP.NET Core. I’m especially int
 - **Data access** — comparing how EF Core and Dapper handle the same query.
 - **API design** — documenting endpoints with OpenAPI and adding JWT authentication.
 
-[Browse my repositories](https://github.com/MehmetTufan052?tab=repositories) · [Say hello by email](mailto:tufaneser8@gmail.com)
